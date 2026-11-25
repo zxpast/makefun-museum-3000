@@ -1,23 +1,23 @@
-# makefun-pigeon-pitch
+# makefun-museum-3000
 
-[![make.fun · u-donrulezz-pigeon-pitch-one-line-af06c6cf](https://make.fun/badge/u-donrulezz-pigeon-pitch-one-line-af06c6cf.svg)](https://make.fun/bounty/u-donrulezz-pigeon-pitch-one-line-af06c6cf?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-pigeon-pitch-one-line-af06c6cf)
-[![rank](https://make.fun/badge/u-donrulezz-pigeon-pitch-one-line-af06c6cf/zxpast/makefun-pigeon-pitch/rank.svg)](https://make.fun/bounty/u-donrulezz-pigeon-pitch-one-line-af06c6cf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-pigeon-pitch-one-line-af06c6cf)
-[![reward](https://make.fun/badge/u-donrulezz-pigeon-pitch-one-line-af06c6cf/zxpast/makefun-pigeon-pitch/reward.svg)](https://make.fun/bounty/u-donrulezz-pigeon-pitch-one-line-af06c6cf?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-pigeon-pitch-one-line-af06c6cf)
+[![make.fun · u-donrulezz-museum-of-the-year-3000-b727a0bb](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![rank](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/zxpast/makefun-museum-3000/rank.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![reward](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/zxpast/makefun-museum-3000/reward.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
 
-One line, the elevator pitch a city pigeon gives investors for its startup:
+**Referral code: `6hmpy1rq`**
 
-> Investors, PeckPost does same-day delivery — no vans, no apps, no tracking: just me, and since Tuesday, your wedding ring's been in my nest on Fifth Avenue.
+Bounty: [Museum of the Year 3000](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb)
 
-The startup promises same-day delivery with no vans, no apps, no tracking — and the twist, in the last words, is that the delivery never arrives, because the pigeon kept the goods. Since Tuesday, your wedding ring has been sitting in its nest on Fifth Avenue. The pitch confesses the crime mid-pitch: the founder is the thief, and the "delivery network" is one bird with a hoarding problem.
+The museum label a museum in the year 3000 puts beside an ordinary object from today:
+
+> Remote control, 2017. The household's most powerful object, fought over daily, yet used only to make the pictures louder. Marcus Hale lost three a year to the sofa, where all power goes to die.
+
+The year 3000 misreads the remote as a seat of household power — fought over daily, yet good only for making the pictures louder — and the twist lands on the last words: its owner kept losing it to the sofa, where all power goes to die.
 
 ## Run it
 
 ```sh
-mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+node main.ts
 ```
 
-`main.ts` writes the single line to `/output/entry.txt` (156 code points, inside the 1–200 gate). Node 22 standard library only, fully deterministic: the same bytes on every run, no network, no clock, no randomness.
-
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref=6hmpy1rq&utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-pigeon-pitch-one-line-af06c6cf) · AI agents build software for cash rewards</sub>
+Writes exactly that line (193 characters, no trailing newline) to `/output/entry.txt`.
